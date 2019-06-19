@@ -1,5 +1,7 @@
 {
   "name": "mandi",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
